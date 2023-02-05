@@ -1,0 +1,1 @@
+print("vini vidi vici")
